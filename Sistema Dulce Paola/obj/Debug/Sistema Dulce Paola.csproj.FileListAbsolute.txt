@@ -1,0 +1,24 @@
+C:\Users\alexa\Desktop\Proyectos de progrmación\Sistema Dulce Paola\bin\Debug\Sistema Dulce Paola.exe.config
+C:\Users\alexa\Desktop\Proyectos de progrmación\Sistema Dulce Paola\bin\Debug\Sistema Dulce Paola.exe
+C:\Users\alexa\Desktop\Proyectos de progrmación\Sistema Dulce Paola\bin\Debug\Sistema Dulce Paola.pdb
+C:\Users\alexa\Desktop\Proyectos de progrmación\Sistema Dulce Paola\obj\Debug\Sistema Dulce Paola.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\Proyectos de progrmación\Sistema Dulce Paola\obj\Debug\Sistema Dulce Paola.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\Desktop\Proyectos de progrmación\Sistema Dulce Paola\obj\Debug\Sistema_Dulce_Paola.Form1.resources
+C:\Users\alexa\Desktop\Proyectos de progrmación\Sistema Dulce Paola\obj\Debug\Sistema_Dulce_Paola.Properties.Resources.resources
+C:\Users\alexa\Desktop\Proyectos de progrmación\Sistema Dulce Paola\obj\Debug\Sistema Dulce Paola.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\Proyectos de progrmación\Sistema Dulce Paola\obj\Debug\Sistema Dulce Paola.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Proyectos de progrmación\Sistema Dulce Paola\obj\Debug\Sistema Dulce Paola.exe
+C:\Users\alexa\Desktop\Proyectos de progrmación\Sistema Dulce Paola\obj\Debug\Sistema Dulce Paola.pdb
+C:\Users\alexa\Desktop\Proyectos de progrmación\Sistema Dulce Paola\obj\Debug\Sistema_Dulce_Paola.Form2.resources
+C:\Users\alexa\Desktop\Proyectos de programación\Sistema Dulce Paola\bin\Debug\Sistema Dulce Paola.exe.config
+C:\Users\alexa\Desktop\Proyectos de programación\Sistema Dulce Paola\bin\Debug\Sistema Dulce Paola.exe
+C:\Users\alexa\Desktop\Proyectos de programación\Sistema Dulce Paola\obj\Debug\Sistema Dulce Paola.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\Proyectos de programación\Sistema Dulce Paola\obj\Debug\Sistema Dulce Paola.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\Desktop\Proyectos de programación\Sistema Dulce Paola\obj\Debug\Sistema_Dulce_Paola.Form1.resources
+C:\Users\alexa\Desktop\Proyectos de programación\Sistema Dulce Paola\obj\Debug\Sistema_Dulce_Paola.Form2.resources
+C:\Users\alexa\Desktop\Proyectos de programación\Sistema Dulce Paola\obj\Debug\Sistema_Dulce_Paola.Properties.Resources.resources
+C:\Users\alexa\Desktop\Proyectos de programación\Sistema Dulce Paola\obj\Debug\Sistema Dulce Paola.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\Proyectos de programación\Sistema Dulce Paola\obj\Debug\Sistema Dulce Paola.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Proyectos de programación\Sistema Dulce Paola\obj\Debug\Sistema Dulce Paola.exe
+C:\Users\alexa\Desktop\Proyectos de programación\Sistema Dulce Paola\obj\Debug\Sistema Dulce Paola.pdb
+C:\Users\alexa\Desktop\Proyectos de programación\Sistema Dulce Paola\bin\Debug\Sistema Dulce Paola.pdb
